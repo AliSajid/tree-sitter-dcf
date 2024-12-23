@@ -1,0 +1,13 @@
+Package: mypackage
+Version: 1.0.0
+Description: A mixed example
+ This field value is folded
+ and spans multiple lines.
+Maintainer: Ali Sajid Imami <ali.sajid.imami@example.com>
+Homepage: https://example.com/mypackage
+Long-Description: This field demonstrates
+ mixing simple and folded
+ values in the same file.
+Architecture: all
+Section: misc
+Priority: optional

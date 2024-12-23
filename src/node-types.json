@@ -1,12 +1,101 @@
 [
   {
-    "type": "source_file",
+    "type": "field",
     "named": true,
-    "root": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "field_name",
+          "named": true
+        },
+        {
+          "type": "field_value",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "field_value",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "folded_value",
+          "named": true
+        },
+        {
+          "type": "simple_value",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "folded_value",
+    "named": true,
     "fields": {}
   },
   {
-    "type": "hello",
+    "type": "simple_value",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "source_file",
+    "named": true,
+    "root": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "stanza",
+          "named": true
+        },
+        {
+          "type": "stanza_separator",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "stanza",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "field",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": ":",
     "named": false
+  },
+  {
+    "type": "comment",
+    "named": true
+  },
+  {
+    "type": "field_name",
+    "named": true
+  },
+  {
+    "type": "stanza_separator",
+    "named": true
   }
 ]

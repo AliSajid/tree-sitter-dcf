@@ -1,0 +1,8 @@
+Package: mypackage
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Ali Sajid Imami <ali.sajid.imami@example.com>
+Description: A simple test package
+Section: utils
+Priority: optional
+Homepage: https://example.com/mypackage
