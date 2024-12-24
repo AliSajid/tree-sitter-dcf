@@ -1,0 +1,74 @@
+version = 1
+SPDX-PackageName = "tree-sitter-dcf"
+SPDX-PackageSupplier = "Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-PackageDownloadLocation = "https://github.com/AliSajid/random-wait-action"
+
+[[annotations]]
+path = "renovate.json"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = ["package.json"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = ".github/workflows/**.yaml"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = [
+  ".gitignore",
+  ".markdownlintignore",
+  ".prettierignore",
+  ".secrets.baseline",
+  ".gitleaksignore",
+  ".gitattributes",
+  ".yamllint.yaml",
+  ".editorconfig",
+  ".markdownlint.json",
+  ".prettierrc.json",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = [
+  "package.json",
+  "src/grammar.json",
+  "src/node-types.json",
+  "tree-sitter.json",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = ["examples/*.dcf"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = ["pnpm-lock.yaml"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "CODE_OF_CONDUCT.md"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "CONTRIBUTING.md"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>"
+SPDX-License-Identifier = "MIT"

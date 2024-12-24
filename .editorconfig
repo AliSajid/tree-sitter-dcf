@@ -32,11 +32,11 @@ indent_style = space
 indent_size = 4
 
 [*.go]
-indent_style = tab
+indent_style = space
 indent_size = 8
 
 [Makefile]
-indent_style = tab
+indent_style = space
 indent_size = 8
 
 [parser.c]
