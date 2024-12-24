@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+#
+# SPDX-License-Identifier: MIT
+
 from os.path import isdir, join
 from platform import system
 
