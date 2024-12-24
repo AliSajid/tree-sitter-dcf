@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+//
+// SPDX-License-Identifier: MIT
+
 package tree_sitter_dcf
 
 // #cgo CFLAGS: -std=c11 -fPIC
