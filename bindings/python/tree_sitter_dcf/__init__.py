@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+#
+# SPDX-License-Identifier: MIT
+
 """Tree-sitter parser for Debian Control Format files"""
 
 from importlib.resources import files as _files

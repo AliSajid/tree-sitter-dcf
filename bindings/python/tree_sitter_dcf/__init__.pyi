@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+#
+# SPDX-License-Identifier: MIT
+
 from typing import Final
 
 # NOTE: uncomment these to include any queries that this grammar contains:

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+#
+# SPDX-License-Identifier: MIT
+
 from unittest import TestCase
 
 import tree_sitter, tree_sitter_dcf
