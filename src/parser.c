@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #include "tree_sitter/parser.h"
 
 #if defined(__GNUC__) || defined(__clang__)

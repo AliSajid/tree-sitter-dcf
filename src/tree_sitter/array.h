@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Ali Sajid Imami
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #ifndef TREE_SITTER_ARRAY_H_
 #define TREE_SITTER_ARRAY_H_
 
